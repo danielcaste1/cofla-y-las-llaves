@@ -46,4 +46,4 @@ Para crear la solución de este problema se utilizó todo lo aprendido en el cur
   
   
 
-##### Puedes encontrar el proyecto en https://danielcaste1.github.io/cofla-y-las-llaves/?model=Oro&data=Comprar
+##### Puedes encontrar el proyecto en https://danielcaste1.github.io/cofla-y-las-llaves/
